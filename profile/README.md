@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://discord.gg/JKu3QyAGGf"><img src="https://img.shields.io/discord/1370040220170584154?style=for-the-badge&label=Discord"></a>
 <a href="https://expose-bots.de/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fexpose-bots.de&style=for-the-badge"></a>
-<a href="https://github.com/EEXPOSE/EXPOSE"><img src="https://img.shields.io/github/watchers/EEXPOSE/EXPOSE?style=for-the-badge"></a>
+<a href="https://github.com/EEXPOSE/EXPOSE"><img src="https://img.shields.io/github/watchers/EEXPOSE/.github?style=for-the-badge"></a>
 </p>
 
 ---
