@@ -18,4 +18,4 @@
 ### Links
 
 - [Website](https://expose-bots.de/)
-- [Discord Server](https://socials.expose-bots.de/discord)
+- [Discord Server](https://s.expose-bots.de/discord)
